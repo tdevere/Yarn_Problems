@@ -1,3 +1,3 @@
 echo "tdevere"
 
-yarn install--network-concurrency 1 --network-timeout=600000 && yarn list --depth=0
+yarn install --network-concurrency 1 --network-timeout=600000 && yarn list --depth=0
