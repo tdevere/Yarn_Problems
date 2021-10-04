@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "react-native-config": "0.64.2"
+    "react-native": "0.64.2"
   }
 }
